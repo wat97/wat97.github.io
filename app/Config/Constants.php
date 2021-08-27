@@ -79,30 +79,30 @@ defined('EXIT__AUTO_MAX')      || define('EXIT__AUTO_MAX', 125); // highest auto
 
 define('SITE_NAME', 'Si Doi Nikah'); ///NAMA WEBSITE
 
-// =========== production mode ============
-// //LINK DOMAIN WITH URL
-// define('SITE_UTAMA', 'https://www.sidoinikah.xyz/'); 
-// define('SITE_UNDANGAN', 'https://undangan.sidoinikah.xyz');
-// define('SITE_ADMIN', 'https://admin.sidoinikah.xyz');
-
-// //DOMAIN ONLY
-// define('DOMAIN_UTAMA', 'sidoinikah.xyz');
-// define('DOMAIN_UTAMA_WWW', 'www.sidoinikah.xyz'); //PAKE WWW
-// define('DOMAIN_UNDANGAN', 'undangan.sidoinikah.xyz');
-// define('DOMAIN_ADMIN', 'admin.sidoinikah.xyz');
-
-
-// =========== development mode ============
-// //LINK DOMAIN WITH URL
-define('SITE_UTAMA', 'http://home.local:8080'); 
-define('SITE_UNDANGAN', 'http://undangan.local:8080');
-define('SITE_ADMIN', 'http://admin.local:8080');
+=========== production mode ============
+//LINK DOMAIN WITH URL
+define('SITE_UTAMA', 'https://www.wat97.github.io/'); 
+define('SITE_UNDANGAN', 'https://undangan.wat97.github.io');
+define('SITE_ADMIN', 'https://admin.wat97.github.io');
 
 //DOMAIN ONLY
-define('DOMAIN_UTAMA', 'home.local:8080');
-define('DOMAIN_UTAMA_WWW', 'home.local:8080');
-define('DOMAIN_UNDANGAN', 'undangan.local:8080');
-define('DOMAIN_ADMIN', 'admin.local:8080');
+define('DOMAIN_UTAMA', 'wat97.github.io');
+define('DOMAIN_UTAMA_WWW', 'www.wat97.github.io'); //PAKE WWW
+define('DOMAIN_UNDANGAN', 'undangan.wat97.github.io');
+define('DOMAIN_ADMIN', 'admin.wat97.github.io');
+
+
+// // =========== development mode ============
+// // //LINK DOMAIN WITH URL
+// define('SITE_UTAMA', 'http://home.local:8080'); 
+// define('SITE_UNDANGAN', 'http://undangan.local:8080');
+// define('SITE_ADMIN', 'http://admin.local:8080');
+
+// //DOMAIN ONLY
+// define('DOMAIN_UTAMA', 'home.local:8080');
+// define('DOMAIN_UTAMA_WWW', 'home.local:8080');
+// define('DOMAIN_UNDANGAN', 'undangan.local:8080');
+// define('DOMAIN_ADMIN', 'admin.local:8080');
 
 
 //base url dinamis
