@@ -1,0 +1,268 @@
+CRITICAL - 2021-08-26 10:43:56 --> Required parameter $from follows optional parameter $verbs
+#0 F:\Xampp\ilham\invite\system\Autoloader\Autoloader.php(365): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Required parame...', 'F:\\Xampp\\ilham\\...', 1018)
+#1 F:\Xampp\ilham\invite\system\Autoloader\Autoloader.php(365): require_once()
+#2 F:\Xampp\ilham\invite\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('F:\\Xampp\\ilham\\...')
+#3 F:\Xampp\ilham\invite\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('CodeIgniter\\Rou...')
+#4 F:\Xampp\ilham\invite\system\Config\Services.php(684): CodeIgniter\Autoloader\Autoloader->loadClass('CodeIgniter\\Rou...')
+#5 F:\Xampp\ilham\invite\system\Config\BaseService.php(123): CodeIgniter\Config\Services::routes(false)
+#6 F:\Xampp\ilham\invite\system\Config\Services.php(681): CodeIgniter\Config\BaseService::getSharedInstance('routes')
+#7 F:\Xampp\ilham\invite\app\Config\Routes.php(4): CodeIgniter\Config\Services::routes(true)
+#8 F:\Xampp\ilham\invite\system\CodeIgniter.php(772): require('F:\\Xampp\\ilham\\...')
+#9 F:\Xampp\ilham\invite\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(NULL)
+#10 F:\Xampp\ilham\invite\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 F:\Xampp\ilham\invite\system\CLI\Console.php(86): CodeIgniter\CodeIgniter->run()
+#12 F:\Xampp\ilham\invite\spark(57): CodeIgniter\CLI\Console->run()
+#13 {main}
+CRITICAL - 2021-08-26 10:53:59 --> Required parameter $from follows optional parameter $verbs
+#0 F:\Xampp\ilham\invite\system\Autoloader\Autoloader.php(365): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Required parame...', 'F:\\Xampp\\ilham\\...', 1018)
+#1 F:\Xampp\ilham\invite\system\Autoloader\Autoloader.php(365): require_once()
+#2 F:\Xampp\ilham\invite\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('F:\\Xampp\\ilham\\...')
+#3 F:\Xampp\ilham\invite\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('CodeIgniter\\Rou...')
+#4 F:\Xampp\ilham\invite\system\Config\Services.php(684): CodeIgniter\Autoloader\Autoloader->loadClass('CodeIgniter\\Rou...')
+#5 F:\Xampp\ilham\invite\system\Config\BaseService.php(123): CodeIgniter\Config\Services::routes(false)
+#6 F:\Xampp\ilham\invite\system\Config\Services.php(681): CodeIgniter\Config\BaseService::getSharedInstance('routes')
+#7 F:\Xampp\ilham\invite\app\Config\Routes.php(4): CodeIgniter\Config\Services::routes(true)
+#8 F:\Xampp\ilham\invite\system\CodeIgniter.php(772): require('F:\\Xampp\\ilham\\...')
+#9 F:\Xampp\ilham\invite\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(NULL)
+#10 F:\Xampp\ilham\invite\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 F:\Xampp\ilham\invite\system\CLI\Console.php(86): CodeIgniter\CodeIgniter->run()
+#12 F:\Xampp\ilham\invite\spark(57): CodeIgniter\CLI\Console->run()
+#13 {main}
+CRITICAL - 2021-08-26 10:54:18 --> Required parameter $from follows optional parameter $verbs
+#0 F:\Xampp\ilham\invite\system\Autoloader\Autoloader.php(365): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Required parame...', 'F:\\Xampp\\ilham\\...', 1018)
+#1 F:\Xampp\ilham\invite\system\Autoloader\Autoloader.php(365): require_once()
+#2 F:\Xampp\ilham\invite\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('F:\\Xampp\\ilham\\...')
+#3 F:\Xampp\ilham\invite\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('CodeIgniter\\Rou...')
+#4 F:\Xampp\ilham\invite\system\Config\Services.php(684): CodeIgniter\Autoloader\Autoloader->loadClass('CodeIgniter\\Rou...')
+#5 F:\Xampp\ilham\invite\system\Config\BaseService.php(123): CodeIgniter\Config\Services::routes(false)
+#6 F:\Xampp\ilham\invite\system\Config\Services.php(681): CodeIgniter\Config\BaseService::getSharedInstance('routes')
+#7 F:\Xampp\ilham\invite\app\Config\Routes.php(4): CodeIgniter\Config\Services::routes(true)
+#8 F:\Xampp\ilham\invite\system\CodeIgniter.php(772): require('F:\\Xampp\\ilham\\...')
+#9 F:\Xampp\ilham\invite\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(NULL)
+#10 F:\Xampp\ilham\invite\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 F:\Xampp\ilham\invite\system\CLI\Console.php(86): CodeIgniter\CodeIgniter->run()
+#12 F:\Xampp\ilham\invite\spark(57): CodeIgniter\CLI\Console->run()
+#13 {main}
+CRITICAL - 2021-08-26 10:55:49 --> Required parameter $from follows optional parameter $verbs
+#0 F:\Xampp\ilham\invite\system\Autoloader\Autoloader.php(365): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Required parame...', 'F:\\Xampp\\ilham\\...', 1018)
+#1 F:\Xampp\ilham\invite\system\Autoloader\Autoloader.php(365): require_once()
+#2 F:\Xampp\ilham\invite\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('F:\\Xampp\\ilham\\...')
+#3 F:\Xampp\ilham\invite\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('CodeIgniter\\Rou...')
+#4 F:\Xampp\ilham\invite\system\Config\Services.php(684): CodeIgniter\Autoloader\Autoloader->loadClass('CodeIgniter\\Rou...')
+#5 F:\Xampp\ilham\invite\system\Config\BaseService.php(123): CodeIgniter\Config\Services::routes(false)
+#6 F:\Xampp\ilham\invite\system\Config\Services.php(681): CodeIgniter\Config\BaseService::getSharedInstance('routes')
+#7 F:\Xampp\ilham\invite\app\Config\Routes.php(4): CodeIgniter\Config\Services::routes(true)
+#8 F:\Xampp\ilham\invite\system\CodeIgniter.php(772): require('F:\\Xampp\\ilham\\...')
+#9 F:\Xampp\ilham\invite\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(NULL)
+#10 F:\Xampp\ilham\invite\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 F:\Xampp\ilham\invite\system\CLI\Console.php(86): CodeIgniter\CodeIgniter->run()
+#12 F:\Xampp\ilham\invite\spark(57): CodeIgniter\CLI\Console->run()
+#13 {main}
+CRITICAL - 2021-08-26 10:55:54 --> Required parameter $from follows optional parameter $verbs
+#0 F:\Xampp\ilham\invite\system\Autoloader\Autoloader.php(365): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Required parame...', 'F:\\Xampp\\ilham\\...', 1018)
+#1 F:\Xampp\ilham\invite\system\Autoloader\Autoloader.php(365): require_once()
+#2 F:\Xampp\ilham\invite\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('F:\\Xampp\\ilham\\...')
+#3 F:\Xampp\ilham\invite\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('CodeIgniter\\Rou...')
+#4 F:\Xampp\ilham\invite\system\Config\Services.php(684): CodeIgniter\Autoloader\Autoloader->loadClass('CodeIgniter\\Rou...')
+#5 F:\Xampp\ilham\invite\system\Config\BaseService.php(123): CodeIgniter\Config\Services::routes(false)
+#6 F:\Xampp\ilham\invite\system\Config\Services.php(681): CodeIgniter\Config\BaseService::getSharedInstance('routes')
+#7 F:\Xampp\ilham\invite\app\Config\Routes.php(4): CodeIgniter\Config\Services::routes(true)
+#8 F:\Xampp\ilham\invite\system\CodeIgniter.php(772): require('F:\\Xampp\\ilham\\...')
+#9 F:\Xampp\ilham\invite\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(NULL)
+#10 F:\Xampp\ilham\invite\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 F:\Xampp\ilham\invite\system\CLI\Console.php(86): CodeIgniter\CodeIgniter->run()
+#12 F:\Xampp\ilham\invite\spark(57): CodeIgniter\CLI\Console->run()
+#13 {main}
+CRITICAL - 2021-08-26 10:56:02 --> Required parameter $from follows optional parameter $verbs
+#0 F:\Xampp\ilham\invite\system\Autoloader\Autoloader.php(365): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Required parame...', 'F:\\Xampp\\ilham\\...', 1018)
+#1 F:\Xampp\ilham\invite\system\Autoloader\Autoloader.php(365): require_once()
+#2 F:\Xampp\ilham\invite\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('F:\\Xampp\\ilham\\...')
+#3 F:\Xampp\ilham\invite\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('CodeIgniter\\Rou...')
+#4 F:\Xampp\ilham\invite\system\Config\Services.php(684): CodeIgniter\Autoloader\Autoloader->loadClass('CodeIgniter\\Rou...')
+#5 F:\Xampp\ilham\invite\system\Config\BaseService.php(123): CodeIgniter\Config\Services::routes(false)
+#6 F:\Xampp\ilham\invite\system\Config\Services.php(681): CodeIgniter\Config\BaseService::getSharedInstance('routes')
+#7 F:\Xampp\ilham\invite\app\Config\Routes.php(4): CodeIgniter\Config\Services::routes(true)
+#8 F:\Xampp\ilham\invite\system\CodeIgniter.php(772): require('F:\\Xampp\\ilham\\...')
+#9 F:\Xampp\ilham\invite\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(NULL)
+#10 F:\Xampp\ilham\invite\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 F:\Xampp\ilham\invite\system\CLI\Console.php(86): CodeIgniter\CodeIgniter->run()
+#12 F:\Xampp\ilham\invite\spark(57): CodeIgniter\CLI\Console->run()
+#13 {main}
+CRITICAL - 2021-08-26 10:56:26 --> Required parameter $from follows optional parameter $verbs
+#0 F:\Xampp\ilham\invite\system\Autoloader\Autoloader.php(365): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Required parame...', 'F:\\Xampp\\ilham\\...', 1018)
+#1 F:\Xampp\ilham\invite\system\Autoloader\Autoloader.php(365): require_once()
+#2 F:\Xampp\ilham\invite\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('F:\\Xampp\\ilham\\...')
+#3 F:\Xampp\ilham\invite\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('CodeIgniter\\Rou...')
+#4 F:\Xampp\ilham\invite\system\Config\Services.php(684): CodeIgniter\Autoloader\Autoloader->loadClass('CodeIgniter\\Rou...')
+#5 F:\Xampp\ilham\invite\system\Config\BaseService.php(123): CodeIgniter\Config\Services::routes(false)
+#6 F:\Xampp\ilham\invite\system\Config\Services.php(681): CodeIgniter\Config\BaseService::getSharedInstance('routes')
+#7 F:\Xampp\ilham\invite\app\Config\Routes.php(4): CodeIgniter\Config\Services::routes(true)
+#8 F:\Xampp\ilham\invite\system\CodeIgniter.php(772): require('F:\\Xampp\\ilham\\...')
+#9 F:\Xampp\ilham\invite\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(NULL)
+#10 F:\Xampp\ilham\invite\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 F:\Xampp\ilham\invite\system\CLI\Console.php(86): CodeIgniter\CodeIgniter->run()
+#12 F:\Xampp\ilham\invite\spark(57): CodeIgniter\CLI\Console->run()
+#13 {main}
+CRITICAL - 2021-08-26 10:56:34 --> Required parameter $from follows optional parameter $verbs
+#0 F:\Xampp\ilham\invite\system\Autoloader\Autoloader.php(365): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Required parame...', 'F:\\Xampp\\ilham\\...', 1018)
+#1 F:\Xampp\ilham\invite\system\Autoloader\Autoloader.php(365): require_once()
+#2 F:\Xampp\ilham\invite\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('F:\\Xampp\\ilham\\...')
+#3 F:\Xampp\ilham\invite\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('CodeIgniter\\Rou...')
+#4 F:\Xampp\ilham\invite\system\Config\Services.php(684): CodeIgniter\Autoloader\Autoloader->loadClass('CodeIgniter\\Rou...')
+#5 F:\Xampp\ilham\invite\system\Config\BaseService.php(123): CodeIgniter\Config\Services::routes(false)
+#6 F:\Xampp\ilham\invite\system\Config\Services.php(681): CodeIgniter\Config\BaseService::getSharedInstance('routes')
+#7 F:\Xampp\ilham\invite\app\Config\Routes.php(4): CodeIgniter\Config\Services::routes(true)
+#8 F:\Xampp\ilham\invite\system\CodeIgniter.php(772): require('F:\\Xampp\\ilham\\...')
+#9 F:\Xampp\ilham\invite\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(NULL)
+#10 F:\Xampp\ilham\invite\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 F:\Xampp\ilham\invite\system\CLI\Console.php(86): CodeIgniter\CodeIgniter->run()
+#12 F:\Xampp\ilham\invite\spark(57): CodeIgniter\CLI\Console->run()
+#13 {main}
+CRITICAL - 2021-08-26 10:59:32 --> Required parameter $from follows optional parameter $verbs
+#0 F:\Xampp\ilham\invite\system\Autoloader\Autoloader.php(365): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Required parame...', 'F:\\Xampp\\ilham\\...', 1018)
+#1 F:\Xampp\ilham\invite\system\Autoloader\Autoloader.php(365): require_once()
+#2 F:\Xampp\ilham\invite\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('F:\\Xampp\\ilham\\...')
+#3 F:\Xampp\ilham\invite\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('CodeIgniter\\Rou...')
+#4 F:\Xampp\ilham\invite\system\Config\Services.php(684): CodeIgniter\Autoloader\Autoloader->loadClass('CodeIgniter\\Rou...')
+#5 F:\Xampp\ilham\invite\system\Config\BaseService.php(123): CodeIgniter\Config\Services::routes(false)
+#6 F:\Xampp\ilham\invite\system\Config\Services.php(681): CodeIgniter\Config\BaseService::getSharedInstance('routes')
+#7 F:\Xampp\ilham\invite\app\Config\Routes.php(4): CodeIgniter\Config\Services::routes(true)
+#8 F:\Xampp\ilham\invite\system\CodeIgniter.php(772): require('F:\\Xampp\\ilham\\...')
+#9 F:\Xampp\ilham\invite\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(NULL)
+#10 F:\Xampp\ilham\invite\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 F:\Xampp\ilham\invite\system\CLI\Console.php(86): CodeIgniter\CodeIgniter->run()
+#12 F:\Xampp\ilham\invite\spark(57): CodeIgniter\CLI\Console->run()
+#13 {main}
+CRITICAL - 2021-08-26 10:59:56 --> Required parameter $from follows optional parameter $verbs
+#0 F:\Xampp\ilham\invite\system\Autoloader\Autoloader.php(365): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Required parame...', 'F:\\Xampp\\ilham\\...', 1018)
+#1 F:\Xampp\ilham\invite\system\Autoloader\Autoloader.php(365): require_once()
+#2 F:\Xampp\ilham\invite\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('F:\\Xampp\\ilham\\...')
+#3 F:\Xampp\ilham\invite\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('CodeIgniter\\Rou...')
+#4 F:\Xampp\ilham\invite\system\Config\Services.php(684): CodeIgniter\Autoloader\Autoloader->loadClass('CodeIgniter\\Rou...')
+#5 F:\Xampp\ilham\invite\system\Config\BaseService.php(123): CodeIgniter\Config\Services::routes(false)
+#6 F:\Xampp\ilham\invite\system\Config\Services.php(681): CodeIgniter\Config\BaseService::getSharedInstance('routes')
+#7 F:\Xampp\ilham\invite\app\Config\Routes.php(4): CodeIgniter\Config\Services::routes(true)
+#8 F:\Xampp\ilham\invite\system\CodeIgniter.php(772): require('F:\\Xampp\\ilham\\...')
+#9 F:\Xampp\ilham\invite\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(NULL)
+#10 F:\Xampp\ilham\invite\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 F:\Xampp\ilham\invite\system\CLI\Console.php(86): CodeIgniter\CodeIgniter->run()
+#12 F:\Xampp\ilham\invite\spark(57): CodeIgniter\CLI\Console->run()
+#13 {main}
+CRITICAL - 2021-08-26 11:00:18 --> Required parameter $from follows optional parameter $verbs
+#0 F:\Xampp\ilham\invite\system\Autoloader\Autoloader.php(365): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Required parame...', 'F:\\Xampp\\ilham\\...', 1018)
+#1 F:\Xampp\ilham\invite\system\Autoloader\Autoloader.php(365): require_once()
+#2 F:\Xampp\ilham\invite\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('F:\\Xampp\\ilham\\...')
+#3 F:\Xampp\ilham\invite\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('CodeIgniter\\Rou...')
+#4 F:\Xampp\ilham\invite\system\Config\Services.php(684): CodeIgniter\Autoloader\Autoloader->loadClass('CodeIgniter\\Rou...')
+#5 F:\Xampp\ilham\invite\system\Config\BaseService.php(123): CodeIgniter\Config\Services::routes(false)
+#6 F:\Xampp\ilham\invite\system\Config\Services.php(681): CodeIgniter\Config\BaseService::getSharedInstance('routes')
+#7 F:\Xampp\ilham\invite\app\Config\Routes.php(4): CodeIgniter\Config\Services::routes(true)
+#8 F:\Xampp\ilham\invite\system\CodeIgniter.php(772): require('F:\\Xampp\\ilham\\...')
+#9 F:\Xampp\ilham\invite\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(NULL)
+#10 F:\Xampp\ilham\invite\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 F:\Xampp\ilham\invite\system\CLI\Console.php(86): CodeIgniter\CodeIgniter->run()
+#12 F:\Xampp\ilham\invite\spark(57): CodeIgniter\CLI\Console->run()
+#13 {main}
+CRITICAL - 2021-08-26 11:00:34 --> Required parameter $from follows optional parameter $verbs
+#0 F:\Xampp\ilham\invite\system\Autoloader\Autoloader.php(365): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Required parame...', 'F:\\Xampp\\ilham\\...', 1018)
+#1 F:\Xampp\ilham\invite\system\Autoloader\Autoloader.php(365): require_once()
+#2 F:\Xampp\ilham\invite\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('F:\\Xampp\\ilham\\...')
+#3 F:\Xampp\ilham\invite\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('CodeIgniter\\Rou...')
+#4 F:\Xampp\ilham\invite\system\Config\Services.php(684): CodeIgniter\Autoloader\Autoloader->loadClass('CodeIgniter\\Rou...')
+#5 F:\Xampp\ilham\invite\system\Config\BaseService.php(123): CodeIgniter\Config\Services::routes(false)
+#6 F:\Xampp\ilham\invite\system\Config\Services.php(681): CodeIgniter\Config\BaseService::getSharedInstance('routes')
+#7 F:\Xampp\ilham\invite\app\Config\Routes.php(4): CodeIgniter\Config\Services::routes(true)
+#8 F:\Xampp\ilham\invite\system\CodeIgniter.php(772): require('F:\\Xampp\\ilham\\...')
+#9 F:\Xampp\ilham\invite\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(NULL)
+#10 F:\Xampp\ilham\invite\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 F:\Xampp\ilham\invite\system\CLI\Console.php(86): CodeIgniter\CodeIgniter->run()
+#12 F:\Xampp\ilham\invite\spark(57): CodeIgniter\CLI\Console->run()
+#13 {main}
+CRITICAL - 2021-08-26 11:01:12 --> Required parameter $from follows optional parameter $verbs
+#0 F:\Xampp\ilham\invite\system\Autoloader\Autoloader.php(365): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Required parame...', 'F:\\Xampp\\ilham\\...', 1018)
+#1 F:\Xampp\ilham\invite\system\Autoloader\Autoloader.php(365): require_once()
+#2 F:\Xampp\ilham\invite\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('F:\\Xampp\\ilham\\...')
+#3 F:\Xampp\ilham\invite\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('CodeIgniter\\Rou...')
+#4 F:\Xampp\ilham\invite\system\Config\Services.php(684): CodeIgniter\Autoloader\Autoloader->loadClass('CodeIgniter\\Rou...')
+#5 F:\Xampp\ilham\invite\system\Config\BaseService.php(123): CodeIgniter\Config\Services::routes(false)
+#6 F:\Xampp\ilham\invite\system\Config\Services.php(681): CodeIgniter\Config\BaseService::getSharedInstance('routes')
+#7 F:\Xampp\ilham\invite\app\Config\Routes.php(4): CodeIgniter\Config\Services::routes(true)
+#8 F:\Xampp\ilham\invite\system\CodeIgniter.php(772): require('F:\\Xampp\\ilham\\...')
+#9 F:\Xampp\ilham\invite\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(NULL)
+#10 F:\Xampp\ilham\invite\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 F:\Xampp\ilham\invite\system\CLI\Console.php(86): CodeIgniter\CodeIgniter->run()
+#12 F:\Xampp\ilham\invite\spark(57): CodeIgniter\CLI\Console->run()
+#13 {main}
+CRITICAL - 2021-08-26 11:01:24 --> Required parameter $from follows optional parameter $verbs
+#0 F:\Xampp\ilham\invite\system\Autoloader\Autoloader.php(365): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Required parame...', 'F:\\Xampp\\ilham\\...', 1018)
+#1 F:\Xampp\ilham\invite\system\Autoloader\Autoloader.php(365): require_once()
+#2 F:\Xampp\ilham\invite\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('F:\\Xampp\\ilham\\...')
+#3 F:\Xampp\ilham\invite\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('CodeIgniter\\Rou...')
+#4 F:\Xampp\ilham\invite\system\Config\Services.php(684): CodeIgniter\Autoloader\Autoloader->loadClass('CodeIgniter\\Rou...')
+#5 F:\Xampp\ilham\invite\system\Config\BaseService.php(123): CodeIgniter\Config\Services::routes(false)
+#6 F:\Xampp\ilham\invite\system\Config\Services.php(681): CodeIgniter\Config\BaseService::getSharedInstance('routes')
+#7 F:\Xampp\ilham\invite\app\Config\Routes.php(4): CodeIgniter\Config\Services::routes(true)
+#8 F:\Xampp\ilham\invite\system\CodeIgniter.php(772): require('F:\\Xampp\\ilham\\...')
+#9 F:\Xampp\ilham\invite\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(NULL)
+#10 F:\Xampp\ilham\invite\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 F:\Xampp\ilham\invite\system\CLI\Console.php(86): CodeIgniter\CodeIgniter->run()
+#12 F:\Xampp\ilham\invite\spark(57): CodeIgniter\CLI\Console->run()
+#13 {main}
+CRITICAL - 2021-08-26 11:02:27 --> Required parameter $from follows optional parameter $verbs
+#0 F:\Xampp\ilham\invite\system\Autoloader\Autoloader.php(365): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Required parame...', 'F:\\Xampp\\ilham\\...', 1018)
+#1 F:\Xampp\ilham\invite\system\Autoloader\Autoloader.php(365): require_once()
+#2 F:\Xampp\ilham\invite\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('F:\\Xampp\\ilham\\...')
+#3 F:\Xampp\ilham\invite\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('CodeIgniter\\Rou...')
+#4 F:\Xampp\ilham\invite\system\Config\Services.php(684): CodeIgniter\Autoloader\Autoloader->loadClass('CodeIgniter\\Rou...')
+#5 F:\Xampp\ilham\invite\system\Config\BaseService.php(123): CodeIgniter\Config\Services::routes(false)
+#6 F:\Xampp\ilham\invite\system\Config\Services.php(681): CodeIgniter\Config\BaseService::getSharedInstance('routes')
+#7 F:\Xampp\ilham\invite\app\Config\Routes.php(4): CodeIgniter\Config\Services::routes(true)
+#8 F:\Xampp\ilham\invite\system\CodeIgniter.php(772): require('F:\\Xampp\\ilham\\...')
+#9 F:\Xampp\ilham\invite\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(NULL)
+#10 F:\Xampp\ilham\invite\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 F:\Xampp\ilham\invite\system\CLI\Console.php(86): CodeIgniter\CodeIgniter->run()
+#12 F:\Xampp\ilham\invite\spark(57): CodeIgniter\CLI\Console->run()
+#13 {main}
+INFO - 2021-08-26 11:05:32 --> Controller "CodeIgniter\CLI\CommandRunner" loaded.
+INFO - 2021-08-26 11:05:35 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-08-26 11:06:11 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-08-26 11:06:21 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-08-26 11:06:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-08-26 11:06:25 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-08-26 11:06:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-08-26 11:06:37 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-08-26 11:06:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-08-26 11:06:44 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-08-26 11:07:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-08-26 11:07:48 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-08-26 11:07:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-08-26 11:07:48 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-08-26 11:07:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-08-26 11:07:55 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-08-26 11:07:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-08-26 11:07:59 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-08-26 11:07:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-08-26 11:07:59 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-08-26 11:08:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-08-26 11:08:11 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-08-26 11:08:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-08-26 11:08:15 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-08-26 11:08:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-08-26 11:08:15 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-08-26 11:08:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-08-26 11:08:44 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-08-26 11:08:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-08-26 11:08:56 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-08-26 11:08:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-08-26 11:08:56 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-08-26 11:09:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-08-26 11:09:07 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-08-26 11:09:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-08-26 11:09:07 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-08-26 11:27:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-08-26 11:27:57 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-08-26 11:27:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-08-26 11:27:57 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2021-08-26 11:29:03 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-08-26 11:29:12 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-08-26 11:29:16 --> Controller "App\Controllers\base\Beranda" loaded.
